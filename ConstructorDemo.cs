@@ -27,7 +27,7 @@ namespace ConsoleApp1
             ConstructorDemo d1 = new ConstructorDemo();
             Console.WriteLine(y);  // stastic variable is called directly
            // Console.WriteLine(x); /// Error can occur
-            Console.WriteLine(d1.x); /// Error can occur
+            Console.WriteLine(d1.x); 
             Console.ReadLine();
 
         }
