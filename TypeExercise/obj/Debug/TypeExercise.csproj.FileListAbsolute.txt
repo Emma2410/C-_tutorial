@@ -1,0 +1,8 @@
+C:\Users\User\Documents\C#\Second_Project\TypeExercise\bin\Debug\TypeExercise.exe.config
+C:\Users\User\Documents\C#\Second_Project\TypeExercise\bin\Debug\TypeExercise.exe
+C:\Users\User\Documents\C#\Second_Project\TypeExercise\bin\Debug\TypeExercise.pdb
+C:\Users\User\Documents\C#\Second_Project\TypeExercise\obj\Debug\TypeExercise.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Second_Project\TypeExercise\obj\Debug\TypeExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\Second_Project\TypeExercise\obj\Debug\TypeExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Second_Project\TypeExercise\obj\Debug\TypeExercise.exe
+C:\Users\User\Documents\C#\Second_Project\TypeExercise\obj\Debug\TypeExercise.pdb

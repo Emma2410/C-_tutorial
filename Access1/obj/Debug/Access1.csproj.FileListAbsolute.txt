@@ -1,0 +1,8 @@
+C:\Users\User\Documents\C#\Second_Project\Access1\bin\Debug\Access1.exe.config
+C:\Users\User\Documents\C#\Second_Project\Access1\bin\Debug\Access1.exe
+C:\Users\User\Documents\C#\Second_Project\Access1\bin\Debug\Access1.pdb
+C:\Users\User\Documents\C#\Second_Project\Access1\obj\Debug\Access1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Second_Project\Access1\obj\Debug\Access1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\Second_Project\Access1\obj\Debug\Access1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Second_Project\Access1\obj\Debug\Access1.exe
+C:\Users\User\Documents\C#\Second_Project\Access1\obj\Debug\Access1.pdb

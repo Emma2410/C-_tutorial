@@ -1,0 +1,8 @@
+C:\Users\User\Documents\C#\Second_Project\Delegate2\bin\Debug\Delegate2.exe.config
+C:\Users\User\Documents\C#\Second_Project\Delegate2\bin\Debug\Delegate2.exe
+C:\Users\User\Documents\C#\Second_Project\Delegate2\bin\Debug\Delegate2.pdb
+C:\Users\User\Documents\C#\Second_Project\Delegate2\obj\Debug\Delegate2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Second_Project\Delegate2\obj\Debug\Delegate2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\Second_Project\Delegate2\obj\Debug\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Second_Project\Delegate2\obj\Debug\Delegate2.exe
+C:\Users\User\Documents\C#\Second_Project\Delegate2\obj\Debug\Delegate2.pdb

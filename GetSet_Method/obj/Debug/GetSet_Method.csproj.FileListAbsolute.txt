@@ -1,0 +1,8 @@
+C:\Users\User\Documents\C#\Second_Project\GetSet_Method\bin\Debug\GetSet_Method.exe.config
+C:\Users\User\Documents\C#\Second_Project\GetSet_Method\bin\Debug\GetSet_Method.exe
+C:\Users\User\Documents\C#\Second_Project\GetSet_Method\bin\Debug\GetSet_Method.pdb
+C:\Users\User\Documents\C#\Second_Project\GetSet_Method\obj\Debug\GetSet_Method.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Second_Project\GetSet_Method\obj\Debug\GetSet_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\Second_Project\GetSet_Method\obj\Debug\GetSet_Method.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Second_Project\GetSet_Method\obj\Debug\GetSet_Method.exe
+C:\Users\User\Documents\C#\Second_Project\GetSet_Method\obj\Debug\GetSet_Method.pdb

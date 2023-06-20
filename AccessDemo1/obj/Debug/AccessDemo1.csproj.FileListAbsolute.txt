@@ -1,0 +1,3 @@
+C:\Users\User\Documents\C#\Second_Project\AccessDemo1\obj\Debug\AccessDemo1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Second_Project\AccessDemo1\obj\Debug\AccessDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\Second_Project\AccessDemo1\obj\Debug\AccessDemo1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Users\User\Documents\C#\Second_Project\Question\bin\Debug\Question.exe.config
+C:\Users\User\Documents\C#\Second_Project\Question\bin\Debug\Question.exe
+C:\Users\User\Documents\C#\Second_Project\Question\bin\Debug\Question.pdb
+C:\Users\User\Documents\C#\Second_Project\Question\obj\Debug\Question.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Second_Project\Question\obj\Debug\Question.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\Second_Project\Question\obj\Debug\Question.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Second_Project\Question\obj\Debug\Question.exe
+C:\Users\User\Documents\C#\Second_Project\Question\obj\Debug\Question.pdb

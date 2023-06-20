@@ -1,0 +1,8 @@
+C:\Users\User\Documents\C#\Second_Project\Abstruction\obj\Debug\Abstruction_ex.csproj.AssemblyReference.cache
+C:\Users\User\Documents\C#\Second_Project\Abstruction\obj\Debug\Abstruction_ex.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\C#\Second_Project\Abstruction\obj\Debug\Abstruction_ex.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\C#\Second_Project\Abstruction\obj\Debug\Abstruction.exe
+C:\Users\User\Documents\C#\Second_Project\Abstruction\obj\Debug\Abstruction.pdb
+C:\Users\User\Documents\C#\Second_Project\Abstruction\bin\Debug\Abstruction.exe.config
+C:\Users\User\Documents\C#\Second_Project\Abstruction\bin\Debug\Abstruction.exe
+C:\Users\User\Documents\C#\Second_Project\Abstruction\bin\Debug\Abstruction.pdb
